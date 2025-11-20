@@ -1,4 +1,5 @@
 12 e  Finding Whether a Number is Prime Using a Recursive Function in Python
+
 Aim
 Write a Python program to check if a given number is prime using recursion.
 
@@ -8,6 +9,7 @@ Start Read the input number n. Define a recursive function is_prime(n, i) where:
 Program
 reg no:212223070012
 name:Lithick Kumar M N
+
 def is_prime(n, i=2):
     if n <= 2:
         return n == 2
