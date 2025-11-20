@@ -1,4 +1,4 @@
-# 12 Finding Whether a Number is Prime Using a Recursive Function in Python
+# 12 e Finding Whether a Number is Prime Using a Recursive Function in Python
 
 ## Aim
 
